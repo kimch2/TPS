@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ae0a4ea2a504ad4e8afa021960accb9
+timeCreated: 1539935352
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spr: {instanceID: 0}
+  - exclamationMark: {fileID: 21300000, guid: 03e2a7ec293a3694293f584e45e628e2, type: 3}
+  - questionMark: {fileID: 21300000, guid: ca291227d72d3774b941dd83ec91a788, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

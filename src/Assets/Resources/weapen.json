@@ -1,0 +1,23 @@
+{
+		"AK47":{
+			"ID":1,
+		"ShotSpeed":0.05,
+		"Damage":10,
+		"MaxDistance":1000,
+		"bulletCapacityMax":30
+	},
+		"95":{
+			"ID":2,
+		"ShotSpeed":0.07,
+		"Damage":12,
+		"MaxDistance":700,
+		"bulletCapacityMax":25
+	},
+		"SCAR":{
+			"ID":3,
+		"ShotSpeed":0.08,
+		"Damage":8,
+		"MaxDistance":1200,
+		"bulletCapacityMax":30
+	}
+}
